@@ -1,0 +1,7 @@
+Hall,Capacity,GenderAllowed,DeptMix,Floor
+A,12,M,Yes,Upper
+B,12,F,Yes,Upper
+C,8,Any,No,Ground
+D,10,M,Yes,Upper
+E,10,F,Yes,Upper
+F,6,Any,Yes,Ground
